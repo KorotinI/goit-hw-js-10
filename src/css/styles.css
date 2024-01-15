@@ -1,13 +1,2 @@
-body {
-  padding: 20px;
-}
-
-a {
-  display: block;
-  font-size: 28px;
-  margin-bottom: 12px;
-}
-
-ul {
-  list-style-type: none;
-}
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
